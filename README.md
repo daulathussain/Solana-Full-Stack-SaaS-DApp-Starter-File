@@ -23,18 +23,18 @@ In this full-stack project, you'll learn how to build and deploy a powerful SaaS
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-solana-full-stack-saas-dapp-with-next.js-web3.js-and-solana-token-solana-dapp)
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/kS5l-a2rQPQ?si=Z3QJx4kFh_a1q4gd)
 
 #### Final Code Setup
 
 ```
   WATCH: Setup & Demo Of Project
-  URL:
-  Video:
+  URL: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-solana-full-stack-saas-dapp-with-next.js-web3.js-and-solana-token-solana-dapp
+  Video: https://youtu.be/kS5l-a2rQPQ?si=Z3QJx4kFh_a1q4gd
 ```
 
 #### Install Vs Code Editor
@@ -70,15 +70,15 @@ If you download the final source code then you can follow the following instruct
 
 ```
   WATCH: Setup & Demo Of Project
-  URL:
-  VIDEO:
+  URL: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-solana-full-stack-saas-dapp-with-next.js-web3.js-and-solana-token-solana-dapp
+  VIDEO: https://youtu.be/kS5l-a2rQPQ?si=Z3QJx4kFh_a1q4gd
 ```
 
 #### Final Source Code
 
 ```
   Download the Final Source Code
-  URL: h
+  URL: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-solana-full-stack-saas-dapp-with-next.js-web3.js-and-solana-token-solana-dapp
 ```
 
 #### Test Faucets
