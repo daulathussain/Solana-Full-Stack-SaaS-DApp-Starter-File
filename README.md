@@ -1,8 +1,8 @@
 # Solana Full-Stack SaaS DApp
 
-🚀 Build and Deploy a Solana Full-Stack SaaS DApp with Next.js, Web3.js & Solana Token - Solana Dapp
+🚀 Build and Deploy a Solana DeFI Tool SaaS DApp with Next.js, Web3.js & Solana Token - Solana Dapp
 
-In this full-stack project, you'll learn how to build and deploy a powerful SaaS (Software as a Service) application on the Solana blockchain. Using Next.js for the frontend and Web3.js for blockchain interactions, this DApp will feature Solana token integration to power subscriptions, payments, or access control. You'll create a fully functional Web3 SaaS platform from scratch — including wallet connection, token utility, on-chain logic, and smooth user experience. Perfect for developers aiming to launch Web3 SaaS products on Solana!
+In this  DeFI Tool project, you'll learn how to build and deploy a powerful SaaS (Software as a Service) application on the Solana blockchain. Using Next.js for the frontend and Web3.js for blockchain interactions, this DApp will feature Solana token integration to power subscriptions, payments, or access control. You'll create a fully functional Web3 SaaS platform from scratch — including wallet connection, token utility, on-chain logic, and smooth user experience. Perfect for developers aiming to launch Web3 SaaS products on Solana!
 
 🔥 What You'll Learn:
 
@@ -19,7 +19,7 @@ In this full-stack project, you'll learn how to build and deploy a powerful SaaS
 
 ## Project Overview
 
-![alt text](https://www.daulathussain.com/wp-content/uploads/2025/04/Build-and-Deploy-a-Solana-fFull-Stack-SaaS-DApp-with-Next.js-Web3.js-Solana-Token-Solana-Dapp.jpg)
+![alt text](https://www.daulathussain.com/wp-content/uploads/2025/05/Build-and-Deploy-a-Solana-DeFI-Tool-DApp-with-Next.js-Web3.js-Solana-Token-Solana-Dapp.jpeg)
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
